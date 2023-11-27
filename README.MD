@@ -28,10 +28,6 @@ PostMan의 오픈소스 서비스를 개발해보자
 
 ## :bulb: 프로젝트 기획
 
-### UCC
-
-[![SAPIER UCC](https://img.youtube.com/vi/23xa-LyzMoY/0.jpg)](https://youtu.be/23xa-LyzMoY?si=o_KGtmH2q5kbN55v)
-
 <br/>
 
 ### 배경
